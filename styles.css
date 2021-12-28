@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    padding: 0px 60px;
+    background-color: rgb(47, 47, 47);
+    color: white;
+}
+.block_nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav_ul{
+    display: flex;
+}
+.nav_ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 0px 15px;
+}
+.block_head{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('bedroom.jpg');
+}
+.block_text{
+    width: 70%;
+    text-align: center;
+}
+.nav{
+    display:flex;
+    justify-content:space-between;
+    text-align:center;
+}
+
+ul{
+    display:flex;
+}
+
+li{
+    list-style:none;
+}
+
+/* .bed{
+    background:url('bedroom.jpg') no-repeat; 
+    /* background-size: cover; */
+                              
+/* } */ */
+
+/* .ff{
+    height: 500px; */
+    /* padding-bottom:250px; */
+/* } */
+ 
+
+/* .a{
+    height: 50%;
+    width:500%;
+    background-color: rgb(43, 38, 38);
+    height: 50%;
+    width:50%; */
+    
+
+    
+
+.yellow{
+    color:yellow;
+    margin-bottom: 500px;
+    /* z-index: 4; */
+    /* position: absolute; */
+}
+/* .foot{
+    margin-left: 400px;
+    top: 40%;
+    position: absolute;
+} */
+.p{
+    font-size: 20px ;
+}
+
+
+.door{
+    height: 500px;
+}
+.history{
+    height:460px;
+    width: 600px;
+    margin-left:750px;
+    margin-top: -505px;
+    margin-right: 900px;
+    background-color:rgb(47, 47, 47);
+    padding: 20px 30px;
+}
+.yellow{
+    color:yellow;
+}
+
+.r {
+    margin-left: 20px;
+}
+
+.v{
+    background-color: orange;
+   height:500px;
+   width:500px;
+   margin-left:400px;
+   margin-top:-19px;
+   padding:20px 30px;
+}
+
+.g{
+    margin-left:1100px ;
+    margin-top:-550px;
+    margin-right:150px;
+    
+}
